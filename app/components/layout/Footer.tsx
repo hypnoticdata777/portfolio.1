@@ -23,7 +23,7 @@ export default function Footer() {
               aria-label="GitHub"
             >
               <svg
-                className="w-6 h-6"
+                className="w-6 h-6 text-gray-400 hover:text-white transition-colors"
                 fill="currentColor"
                 viewBox="0 0 24 24"
                 aria-hidden="true"
@@ -45,7 +45,7 @@ export default function Footer() {
               aria-label="LinkedIn"
             >
               <svg
-                className="w-6 h-6"
+                className="w-6 h-6 text-gray-400 hover:text-white transition-colors"
                 fill="currentColor"
                 viewBox="0 0 24 24"
                 aria-hidden="true"
